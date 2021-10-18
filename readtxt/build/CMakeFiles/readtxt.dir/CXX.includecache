@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guo/my_bag/readtxt/src/main.cpp
+stdlib.h
+-
+iostream
+-
+string
+-
+fstream
+/home/guo/my_bag/readtxt/src/fstream
+cmath
+-
+cctype
+-
+

@@ -1,0 +1,3 @@
+/home/guo/my_bag/readtxt/build/CMakeFiles/rebuild_cache.dir
+/home/guo/my_bag/readtxt/build/CMakeFiles/readtxt.dir
+/home/guo/my_bag/readtxt/build/CMakeFiles/edit_cache.dir
